@@ -1,1 +1,1 @@
-this is a text file for fun
+this is now updated causing a merge conflict because of remote commit git pull
